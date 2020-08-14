@@ -3,7 +3,6 @@
 
 #### **Info about me:**
 
-<!-- Any image aligned to the right. Beware the width -->
 <a href="https://github.com/dnorhoj">
   <img width="50%" align="right" alt="dnorhoj's github stats" src="https://github-readme-stats.vercel.app/api?username=dnorhoj&show_icons=true&hide_border=true" />
 </a>
