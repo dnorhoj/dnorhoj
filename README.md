@@ -1,16 +1,16 @@
-### Hi there 👋
+<!-- Banner -->
+<h3 align="center">Hi, I'm Daniel, a Developer 🚀 and a Student 📓.</h3>
 
-<!--
-**dnorhoj/dnorhoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **Info about me:**
 
-Here are some ideas to get you started:
+<!-- Any image aligned to the right. Beware the width -->
+<a href="https://github.com/dnorhoj">
+  <img width="50%" align="right" alt="dnorhoj's github stats" src="https://github-readme-stats.vercel.app/api?username=dnorhoj&show_icons=true&hide_border=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m currently working on a [Discord bot that doesn't have a name](https://github.com/dnorhoj/unnammeddiscordbot).
+- ⌨ My favorite programming language is Python 3.
+- 💬 Ask me about anything! I'm happy to help.
+- ⚡️ Fun-Fact: I started coding as an eight-year-old and I haven't stopped since.
+- 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
+- 📫 How to reach me: [daniel.norhoj@gmail.com](mailto:daniel.norhoj@gmail.com).
