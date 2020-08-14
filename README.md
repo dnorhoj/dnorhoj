@@ -4,7 +4,7 @@
 #### **Info about me:**
 
 <a href="https://github.com/dnorhoj">
-  <img width="50%" align="right" alt="dnorhoj's github stats" src="https://github-readme-stats.vercel.app/api?username=dnorhoj&show_icons=true&hide_border=true" />
+  <img width="50%" align="right" alt="dnorhoj's github stats" src="https://github-readme-stats.vercel.app/api?username=dnorhoj&show_icons=true&hide_border=true&hide=issues" />
 </a>
 
 - 💻 I’m currently working on a [Discord bot that doesn't have a name](https://github.com/dnorhoj/unnammeddiscordbot).
