@@ -14,3 +14,7 @@
 - ⚡️ Fun-Fact: I started coding as an eight-year-old and I haven't stopped since.
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
 - 📫 How to reach me: [daniel.norhoj@gmail.com](mailto:daniel.norhoj@gmail.com).
+
+#### **More info:**
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dnorhoj.dnorhoj)
