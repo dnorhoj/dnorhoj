@@ -1,7 +1,7 @@
 <!-- Banner -->
 <h3 align="center">Hi, I'm Daniel, a Developer 🚀 and a Student 📓.</h3>
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=dnorhoj.dnorhoj)](https://youtu.be/dQw4w9WgXcQ)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dnorhoj.dnorhoj.prod)](https://youtu.be/dQw4w9WgXcQ)
 
 #### **About me:**
 
