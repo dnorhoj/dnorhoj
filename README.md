@@ -17,4 +17,10 @@
 
 #### **More info:**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dnorhoj.dnorhoj)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dnorhoj.dnorhoj)](https://youtu.be/dQw4w9WgXcQ)
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://www.python.org)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://youtu.be/dQw4w9WgXcQ)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://youtu.be/dQw4w9WgXcQ)
