@@ -9,7 +9,7 @@
 </a>
 
 - 📓 I'm currently studying at [H.C. Ørsted](https://www.tec.dk/h-c-oersted-gymnasiet/)
-- 💻 I'm currently working on a [Discord bot that doesn't have a name](https://github.com/dnorhoj/unnameddiscordbot).
+- 💻 Check out [AntiRickRoll](https://github.com/dnorhoj/AntiRickRoll).
 - 💬 Ask me about anything! I'm happy to help.
 - ⚡️ Fun-Fact: I started coding as an eight-year-old and I haven't stopped since.
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
