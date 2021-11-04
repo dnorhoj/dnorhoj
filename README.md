@@ -15,5 +15,6 @@
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
 - 📫 How to reach me: [daniel.norhoj@gmail.com](mailto:daniel.norhoj@gmail.com).
 - ⌨ Main programming languages: `.py` `.js` `.html` `.css` `.dart`
+- 🌍 Languages: `Danish` `English` `Spanish`
 
 [![dnorhoj#1337](https://discord.c99.nl/widget/theme-1/281409966579908608.png)](https://discord.com/users/281409966579908608)
