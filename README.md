@@ -9,8 +9,7 @@
 </a>
 
 - 📓 I'm currently studying at [H.C. Ørsted](https://www.tec.dk/h-c-oersted-gymnasiet/)
-- 💻 Check out [AntiRickRoll](https://github.com/dnorhoj/AntiRickRoll).
-- 💬 Ask me about anything! I'm happy to help.
+- 💻 Check out [AntiRickRoll](https://antirickroll.com/).
 - ⚡️ Fun-Fact: I started coding as an eight-year-old and I haven't stopped since.
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
 - 📫 How to reach me: [daniel.norhoj@gmail.com](mailto:daniel.norhoj@gmail.com).
