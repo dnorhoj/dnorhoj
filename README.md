@@ -10,10 +10,10 @@
 
 - 📓 I'm currently studying at [H.C. Ørsted](https://www.tec.dk/h-c-oersted-gymnasiet/)
 - 💻 Check out [AntiRickRoll](https://antirickroll.com/).
-- ⚡️ Fun-Fact: I started coding as an eight-year-old and I haven't stopped since.
+- 👨‍💻 Member of the [Danish National CyberSecurity Team 2022](https://nationalcybersikkerhed.dk/)
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
-- 📫 How to reach me: [daniel.norhoj@gmail.com](mailto:daniel.norhoj@gmail.com).
-- ⌨ Main programming languages: `.py` `.js` `.html` `.css` `.dart`
+- 📫 Reach out via email or discord: [daniel.norhoj@gmail.com](mailto:daniel.norhoj@gmail.com).
+- ⌨ Main programming languages: `.py` `.js` `.html` `.css`
 - 🌍 Languages: `Danish` `English` `Spanish`
 
 [![dnorhoj#1337](https://discord.c99.nl/widget/theme-1/281409966579908608.png)](https://discord.com/users/281409966579908608)
