@@ -8,7 +8,6 @@
   <img width="50%" align="right" alt="dnorhoj's github stats" src="https://github-readme-stats.vercel.app/api?username=dnorhoj&show_icons=true&hide_border=true&hide=issues" />
 </a>
 
-- 📓 I'm a full-time Junior Cybersecurity & DevOps specialist working at [SimplyPrint](https://simplyprint.io/)
 - 💻 Check out [AntiRickRoll](https://antirickroll.com/).
 - 👨‍💻 Was a member of the [Danish National CyberSecurity Team in 2022](https://nationalcybersikkerhed.dk/)
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
