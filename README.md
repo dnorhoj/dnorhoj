@@ -9,7 +9,7 @@
 </a>
 
 - 💻 Check out [AntiRickRoll](https://antirickroll.com/).
-- 👨‍💻 Was a member of the [Danish National CyberSecurity Team in 2022](https://nationalcybersikkerhed.dk/)
+- 👨‍💻 Member of the [Danish National CyberSecurity Team in 2025](https://nationalcybersikkerhed.dk/)
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
 - 📫 Reach out via email or discord: [daniel@dnorhoj.me](mailto:daniel@dnorhoj.me).
 - ⌨ Main programming languages: `.py` `.php` `.ts` `.js` `.html` `.css`
